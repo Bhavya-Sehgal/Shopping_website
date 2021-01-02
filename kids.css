@@ -1,0 +1,9 @@
+body{
+    background: #f6cd61;
+}
+.sec1 img{
+    margin: 10px;
+    border:2px solid white;
+    width:300px;
+    height:450px;
+}

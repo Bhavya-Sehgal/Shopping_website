@@ -1,0 +1,37 @@
+.jumbotron{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.sec1 img{
+    margin: 10px;
+    border:3px solid white;
+    width:350px;
+    height:300px;
+}
+.sec-2 img{
+    margin: 10px;
+    border:2px solid white;
+    width:300px;
+    height:450px;
+}
+body{
+	background:url(https://images.unsplash.com/photo-1550684376-efcbd6e3f031?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60);
+	background-size: cover;
+	margin-bottom: 0px;
+}
+.alter{
+	height:400px;
+}
+.img {
+  width:450px;
+  height:450px;
+}
+.pic{
+	width:1100px;
+	border-radius: 5px;
+}
+
+
+
